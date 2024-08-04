@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to ThenTreesBank cards related QA APIs "
   contactDetails:
     name: "Then Trees - QA Lead"
