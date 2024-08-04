@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to ThenTreesBank accounts related QA APIs "
+  message: "Welcome to ThenTreesBank loans related QA APIs "
   contactDetails:
     name: "Then Trees - QA Lead"
     email: "smitha@thentrees.com"
