@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ThentreesBanl accounts related local APIs "
+  message: "Welcome to ThentreesBanl loans related local APIs "
   contactDetails:
     name: "Then Trees - Prod owner"
     email: "smitha@thentrees.com"
