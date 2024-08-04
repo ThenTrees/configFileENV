@@ -3,7 +3,7 @@ server:
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Welcome to ThentreesBanl loans related local APIs "
   contactDetails:
     name: "Then Trees - Prod owner"
